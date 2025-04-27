@@ -1,2 +1,2 @@
-# News Headline Generation with BART
+# Bank Customer Churn Prediction using Random Forest Classifier
 [IN PROGRESS] 
