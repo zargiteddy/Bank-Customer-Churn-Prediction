@@ -1,2 +1,2 @@
-# Bank Customer Churn Prediction using Random Forest Classifier
-[IN PROGRESS] 
+- Dataset: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
+- Article: 
